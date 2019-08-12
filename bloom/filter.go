@@ -9,9 +9,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/unibanker/byzantine/chaincfg/chainhash"
+	"github.com/unibanker/byzantine/txscript"
+	"github.com/unibanker/byzantine/wire"
 	"github.com/btcsuite/btcutil"
 )
 
