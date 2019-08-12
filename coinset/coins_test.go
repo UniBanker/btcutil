@@ -13,8 +13,8 @@ import (
 
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
+	"github.com/unibanker/btcutil"
+	"github.com/unibanker/btcutil/coinset"
 )
 
 type TestCoin struct {

@@ -11,7 +11,7 @@ import (
 	"github.com/unibanker/byzantine/btcec"
 	"github.com/unibanker/byzantine/chaincfg"
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/unibanker/btcutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

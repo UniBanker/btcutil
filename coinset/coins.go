@@ -11,7 +11,7 @@ import (
 
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/unibanker/btcutil"
 )
 
 // Coin represents a spendable transaction outpoint

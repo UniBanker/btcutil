@@ -13,8 +13,8 @@ import (
 
 	"github.com/unibanker/byzantine/btcec"
 	"github.com/unibanker/byzantine/chaincfg"
-	"github.com/btcsuite/btcutil/base58"
-	"github.com/btcsuite/btcutil/bech32"
+	"github.com/unibanker/btcutil/base58"
+	"github.com/unibanker/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

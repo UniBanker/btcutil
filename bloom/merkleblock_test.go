@@ -11,8 +11,8 @@ import (
 
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/unibanker/btcutil"
+	"github.com/unibanker/btcutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

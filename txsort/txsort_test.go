@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil/txsort"
+	"github.com/unibanker/btcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

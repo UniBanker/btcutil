@@ -8,7 +8,7 @@ import (
 	"github.com/unibanker/byzantine/blockchain"
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/unibanker/btcutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

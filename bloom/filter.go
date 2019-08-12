@@ -12,7 +12,7 @@ import (
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/txscript"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/unibanker/btcutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

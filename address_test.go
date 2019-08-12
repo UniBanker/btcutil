@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/unibanker/byzantine/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/unibanker/btcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

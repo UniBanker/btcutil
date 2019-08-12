@@ -11,7 +11,7 @@ import (
 
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/unibanker/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

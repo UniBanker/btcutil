@@ -9,7 +9,7 @@ import (
 
 	"github.com/unibanker/byzantine/btcec"
 	"github.com/unibanker/byzantine/chaincfg"
-	. "github.com/btcsuite/btcutil"
+	. "github.com/unibanker/btcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

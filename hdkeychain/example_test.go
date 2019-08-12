@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/unibanker/byzantine/chaincfg"
-	"github.com/btcsuite/btcutil/hdkeychain"
+	"github.com/unibanker/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

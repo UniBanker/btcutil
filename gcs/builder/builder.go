@@ -13,7 +13,7 @@ import (
 	"github.com/unibanker/byzantine/chaincfg/chainhash"
 	"github.com/unibanker/byzantine/txscript"
 	"github.com/unibanker/byzantine/wire"
-	"github.com/btcsuite/btcutil/gcs"
+	"github.com/unibanker/btcutil/gcs"
 )
 
 const (
